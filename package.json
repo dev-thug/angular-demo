@@ -22,7 +22,8 @@
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4",
     "@angular/material": "^12.0.0",
-    "@angular/flex-layout": "^12.0.0-beta.35"
+    "@angular/flex-layout": "^12.0.0-beta.35",
+    "hammerjs": "^2.0.8"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~13.0.1",
